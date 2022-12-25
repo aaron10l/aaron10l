@@ -39,7 +39,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://aaronalvarez.neocities.org" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/aaronalvarez513/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:aaronalvarez7394@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://aaronalvarez.neocities.org" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-aaronalvarez.neocities.com-blue?style=plastic&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/aaronalvarez513/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40aaronalvarez513-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:aaronalvarez7394@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronalvarez7394%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
