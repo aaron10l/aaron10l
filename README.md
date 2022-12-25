@@ -7,13 +7,11 @@
 > Software Engineering Intern at [Millspaw Electronics](https://millspawelectronics.com)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://img.shields.io/badge/profile%20views-1%2C205-blue" alt="aaron10l" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+I am freshman software engineering intern with an interest in full-stack development - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in front-end and back-end development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 </p>
 </div>
 
