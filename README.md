@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I am freshman software engineering intern with an interest in full-stack development - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in front-end and back-end development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am freshman software engineering intern with an interest in full-stack development and machine learning/AI. I am skilled at writing well-designed, testable and efficient code using current best practices in front-end and back-end development. I am a fast learner, hard worker and team player who is proficient in an array of scripting languages and web development tools.
 </p>
 </div>
 
