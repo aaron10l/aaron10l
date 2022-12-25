@@ -1,7 +1,7 @@
-<p align="center">
+<!--<p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
-</p>
+</p>-->
 
 ### Hi there 👋 I'm [Aaron Alvarez](https://aaronalvarez.neocities.com)
 > Software Engineering Intern at [Millspaw Electronics](https://millspawelectronics.com)
@@ -38,7 +38,7 @@ I am freshman software engineering intern with an interest in full-stack develop
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://aaronalvarez.neocities.org" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-aaronalvarez.neocities.com-blue?style=plastic&logo=google-chrome"></a>
+<a href="https://aaronalvarez.neocities.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-aaronalvarez.neocities.com-blue?style=plastic&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/aaronalvarez513/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40aaronalvarez513-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:aaronalvarez7394@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronalvarez7394%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
