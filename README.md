@@ -7,7 +7,7 @@
 > Software Engineering Intern at [Elevance Health](https://elevancehealth.com)
 
 
-<img src="https://img.shields.io/badge/profile%20views-1%2C205-blue" alt="aaron10l" />
+<!--<img src="https://img.shields.io/badge/profile%20views-1%2C205-blue" alt="aaron10l" />-->
 
 <div>
  <p>
