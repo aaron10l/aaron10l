@@ -3,15 +3,15 @@
  <h2 align="center">Profile</h2>
 </p>-->
 
-### Hi there 👋 I'm [Aaron Alvarez](https://aaronalvarez.neocities.com)
-> Software Engineering Intern at [Elevance Health](https://elevancehealth.com)
+### Hi there 👋 I'm [Aaron Alvarez](https://aaronalvarez.me)
+> Undergraduate Research Assistant working with the Kellis Lab
 
 
 <!--<img src="https://img.shields.io/badge/profile%20views-1%2C205-blue" alt="aaron10l" />-->
 
 <div>
  <p>
-I am an undergraduate software engineering intern with an interest in low-level development and machine learning/AI. I am skilled at writing well-designed, testable and efficient code using current best practices in front-end and back-end development. I am a fast learner, hard worker and team player who is proficient in an array of scripting languages and web development tools.
+I am an undergraduate student at the University of Cincinnati with an interest in low-level development and machine learning/AI.
 </p>
 </div>
 
