@@ -21,7 +21,7 @@ I am an undergraduate student at the University of Cincinnati with an interest i
 |---|---|---|---|---|---|---|---|
  
 
-### Github Stats
+### 📊 Github Stats
 
 [![Aaron Alvarez GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron10l&show_icons=true&count_private=true)](https://github.com/aaron10l)
 
