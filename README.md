@@ -4,7 +4,7 @@
 </p>-->
 
 # Hi there 👋 I'm [Aaron Alvarez](https://aaronalvarez.me)
-> Undergraduate Research Assistant working with the Kellis Lab
+> Software Engineering Intern at Chan Zuckerberg Biohub
 
 
 <!--<img src="https://img.shields.io/badge/profile%20views-1%2C205-blue" alt="aaron10l" />-->
