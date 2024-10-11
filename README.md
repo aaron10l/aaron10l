@@ -11,7 +11,7 @@
 
 <div>
  <p>
-I am an undergraduate student at the University of Cincinnati with an interest in machine learning/AI and software engineering.
+I am an undergraduate student at the University of Cincinnati with an interest in software engineering and machine learning.
 </p>
 </div>
 
