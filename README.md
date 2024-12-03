@@ -4,7 +4,7 @@
 </p>-->
 
 # Hi there 👋 I'm [Aaron Alvarez](https://aaronalvarez.me)
-> Software Engineering Intern at Chan Zuckerberg Biohub
+> Software Engineering Intern at Netflix
 
 
 <!--<img src="https://img.shields.io/badge/profile%20views-1%2C205-blue" alt="aaron10l" />-->
