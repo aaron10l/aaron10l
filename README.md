@@ -39,5 +39,5 @@ I am an undergraduate student at the University of Cincinnati with an interest i
 <p align="center">
 <a href="https://aaronalvarez.me" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-aaronalvarez.me-blue?style=plastic&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/aaronisme/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%40aaronisme-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:aaronalvarez.swe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronalvarez.dev%40gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:aaronalvarez.swe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronalvarez.swe%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
